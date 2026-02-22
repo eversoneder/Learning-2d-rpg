@@ -11,7 +11,7 @@ Watch the full technical demonstration of the mechanics below:
 (Linkedin Full Video)
 
 📺 Click here to watch the Gameplay Video:
-https://github.com/user-attachments/assets/a0c47118-e44b-4042-b8b7-68145802940c
+https://github.com/user-attachments/assets/8ee9cba3-f252-4a13-8b2c-94b8133cfced
 
 🛠️ Technical Features & Learning Milestones
 Based on the CSJ Academy curriculum, I implemented the following core systems:
