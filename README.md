@@ -39,5 +39,5 @@ Coming from a Graphic Design background, I utilized this project to bridge the g
 
 ## 📧 Contact & Networking
 - Currently based in Dublin, Ireland.
-- [**LinkedIn:**](https://www.linkedin.com/in/eversonspinola/)
+- Linkedin: [**eversonspinola**](https://www.linkedin.com/in/eversonspinola/)
 - Email: everson_spinola@hotmail.com
