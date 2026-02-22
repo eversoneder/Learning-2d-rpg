@@ -11,7 +11,7 @@ Watch the full technical demonstration of the mechanics below:
 (Linkedin Full Video)
 
 📺 Click here to watch the Gameplay Video:
-https://github.com/user-attachments/assets/8ee9cba3-f252-4a13-8b2c-94b8133cfced
+<img src="Showcase/CSJ-Academy-Top-Down-2D-RPG-Course-GAMEPLAY-TEST-26s.mp4" alt="2D RPG Demo" width="800">
 
 🛠️ Technical Features & Learning Milestones
 Based on the CSJ Academy curriculum, I implemented the following core systems:
