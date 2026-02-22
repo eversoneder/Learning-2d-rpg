@@ -10,7 +10,7 @@ Coming from a Graphic Design background, I utilized this project to bridge the g
 🎥 **Gameplay Showcase**
 Watch the full technical demonstration on LinkedIn:
 
-[![Watch the Gameplay Video](https://www.linkedin.com/feed/update/urn:li:activity:7431279067443646464/)]
+[![Watch the Gameplay Video](https://github.com/user-attachments/assets/8ee9cba3-f252-4a13-8b2c-94b8133cfced)]
 
 🛠️ Technical Features & Learning Milestones
 Based on the CSJ Academy curriculum, I implemented the following core systems:
