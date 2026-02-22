@@ -7,12 +7,10 @@
 This project is a comprehensive Top-Down RPG framework developed during my CSJ Academy "Start Game Dev" Certification (August 2025). It focuses on modular architecture, AI pathfinding, and interactive game systems.
 Coming from a Graphic Design background, I utilized this project to bridge the gap between high-fidelity UI/UX and complex C# backend logic, ensuring a polished player experience from both a visual and technical perspective.
 
-🎥 Gameplay Showcase
-Watch the full technical demonstration of the mechanics below:
-(Linkedin Full Video)
+🎥 **Gameplay Showcase**
+Watch the full technical demonstration on LinkedIn:
 
-📺 Click here to watch the Gameplay Video:
-https://github.com/user-attachments/assets/8ee9cba3-f252-4a13-8b2c-94b8133cfced
+[![Watch the Gameplay Video](https://www.linkedin.com/feed/update/urn:li:activity:7431279067443646464/)]
 
 🛠️ Technical Features & Learning Milestones
 Based on the CSJ Academy curriculum, I implemented the following core systems:
