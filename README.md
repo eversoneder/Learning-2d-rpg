@@ -2,7 +2,8 @@
 <img src="Showcase/CSJ-Academy-2D-RPG-Combat.png" alt="2D RPG Combat" width="800">
 2D Top-Down RPG developed as part of the CSJ Academy 'Start Game Dev' certification. Features include player movement, NPC interaction, inventory systems, and AI-driven enemy behavior.
 
-2D Top-Down RPG Framework (Unity & C#)
+
+## Framework (Unity & C#)
 📑 Project Overview
 This project is a comprehensive Top-Down RPG framework developed during my CSJ Academy "Start Game Dev" Certification (August 2025). It focuses on modular architecture, AI pathfinding, and interactive game systems.
 Coming from a Graphic Design background, I utilized this project to bridge the gap between high-fidelity UI/UX and complex C# backend logic, ensuring a polished player experience from both a visual and technical perspective.
