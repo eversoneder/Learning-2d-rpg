@@ -7,7 +7,7 @@
 This project is a comprehensive Top-Down RPG framework developed during my CSJ Academy "Start Game Dev" Certification (August 2025). It focuses on modular architecture, AI pathfinding, and interactive game systems.
 Coming from a Graphic Design background, I utilized this project to bridge the gap between high-fidelity UI/UX and complex C# backend logic, ensuring a polished player experience from both a visual and technical perspective.
 
-[![Watch the Gameplay Video](https://github.com/user-attachments/assets/8ee9cba3-f252-4a13-8b2c-94b8133cfced)]
+[**Watch the Gameplay Video**](https://github.com/user-attachments/assets/8ee9cba3-f252-4a13-8b2c-94b8133cfced)
 
 🛠️ Technical Features & Learning Milestones
 Based on the CSJ Academy curriculum, I implemented the following core systems:
@@ -34,10 +34,10 @@ Logic Patterns: State Machines, NavMesh, Singleton Patterns
 
 📜 Certification
 This project was the final requirement for the Start Game Dev "Pixel Top Down" Course by CSJ Academy.
-[![Game Dev Cert](https://alunos.crieseusjogos.com.br/en/club/csj-digital/product/1553177/certificate/f2a061f6-bdac-4bbb-b6f6-da644dfb0fb3--768080572/validate)]
+[**Game Dev Cert**](https://alunos.crieseusjogos.com.br/en/club/csj-digital/product/1553177/certificate/f2a061f6-bdac-4bbb-b6f6-da644dfb0fb3--768080572/validate)
 Modules Covered: Programming Intro, Scene Management, Game Character, NPC Implementation, Crafting & Farming, Enemy using AI (Nav Mesh), Sound Effects, HUD, and Publishing.
 
 📧 Contact & Networking
 Currently based in Dublin, Ireland.
-LinkedIn: [https://www.linkedin.com/in/eversonspinola/]
+[**LinkedIn:**](https://www.linkedin.com/in/eversonspinola/)
 Email: everson_spinola@hotmail.com
