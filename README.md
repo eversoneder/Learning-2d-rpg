@@ -33,8 +33,7 @@ Coming from a Graphic Design background, I utilized this project to bridge the g
 - Logic Patterns: State Machines, NavMesh, Singleton Patterns
 
 ## 📜 Certification
-- This project was the final requirement for the Start Game Dev "Pixel Top Down" Course by CSJ Academy.
-- [**Game Dev Cert**](https://alunos.crieseusjogos.com.br/en/club/csj-digital/product/1553177/certificate/f2a061f6-bdac-4bbb-b6f6-da644dfb0fb3--768080572/validate)
+- This project was the final requirement for the Start Game Dev "Pixel Top Down" Course by CSJ Academy. [**Game Dev Cert**](https://alunos.crieseusjogos.com.br/en/club/csj-digital/product/1553177/certificate/f2a061f6-bdac-4bbb-b6f6-da644dfb0fb3--768080572/validate)
 - Modules Covered: Programming Intro, Scene Management, Game Character, NPC Implementation, Crafting & Farming, Enemy using AI (Nav Mesh), Sound Effects, HUD, and Publishing.
 
 ## 📧 Contact & Networking
