@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93da18d401fd8e9488e0b4de114852d6, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 1532182008196142453, guid: 96d4c0e711d6cfb44a2f0dc917067271, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Sam
+    profile: {fileID: 6997741227164693895, guid: 11e9b03c52b71684184bcff141196ac0, type: 3}
+    sentence:
+      portuguese: "Ol\xE1, aventureiro! Bem-vindo ao Top Down RPG 2D. Aqui est\xE3o
+        as instru\xE7\xF5es do jogo. Pressione \"T\" ou clique no bot\xE3o inferior
+        direito para continuar."
+      english: Hello Adventurer! Welcome to Top Down 2D RPG. Here are the Game Instructions,
+        Press 'T' or click on the bottom right button to continue.
+      spanish: "\xA1Hola, aventurero! Bienvenido a Top Down 2D RPG. Aqu\xED tienes
+        las instrucciones del juego: pulsa \"T\" o haz clic en el bot\xF3n inferior
+        derecho para continuar."
+  - actorName: Tools
+    profile: {fileID: 6674386295937086461, guid: 1eaa23d7b5a5f244aa6d28f1b761870b, type: 3}
+    sentence:
+      portuguese: "No canto superior esquerdo voc\xEA pode ver o Painel de Ferramentas,
+        do n\xFAmero 0 ao 4 est\xE3o as teclas para selecionar cada ferramenta para
+        cada finalidade."
+      english: On the Top Left you can see the Tools Panel, from number 0 to 4 are
+        the keys to select each Tool for each purpose.
+      spanish: "En la parte superior izquierda se puede ver el Panel de Herramientas,
+        del n\xFAmero 0 al 4 est\xE1n las teclas para seleccionar cada Herramienta
+        para cada prop\xF3sito."
+  - actorName: Movement
+    profile: {fileID: 3312798837105470071, guid: 103bc8d8e439ed24f99708188b764c8f, type: 3}
+    sentence:
+      portuguese: W, A, S, D ou as setas do teclado para se mover. Pressione a tecla
+        Shift esquerda enquanto se move para correr.
+      english: W, A, S, D or arrow keys to move. Press the left Shift key while moving
+        to run.
+      spanish: "Usa W, A, S, D o las flechas de direcci\xF3n para moverte. Pulsa
+        May\xFAs izquierda mientras te mueves para correr."
+  - actorName: Combat
+    profile: {fileID: -3753825769889500098, guid: e1e1985a00e4d7442aa717a914f0b062, type: 3}
+    sentence:
+      portuguese: "Selecione a ferramenta Espada, n\xFAmero '0' (Zero) e clique com
+        o bot\xE3o esquerdo para atacar. Clique com o bot\xE3o direito para rolar
+        (Esquivar)."
+      english: 'Select the Sword tool, number ''0'' (Zero) and left-click to attack.
+        Right-click to roll (Dodge). '
+      spanish: "Selecciona la herramienta Espada, el n\xFAmero \"0\" (cero) y haz
+        clic izquierdo para atacar. Haz clic derecho para rodar (esquivar)."
+  - actorName: Fishing
+    profile: {fileID: -8858077874791135255, guid: 041fd9aea5df91b4bb0df366e8ea1a50, type: 3}
+    sentence:
+      portuguese: "Pressione 'F' para pescar. Se voc\xEA pegou um peixe, pode pressionar
+        'R' para com\xEA-lo e recuperar sa\xFAde."
+      english: Press 'F' for fishing. If you caught a fish. you can press 'R' to
+        Eat it and recover health.
+      spanish: "Pulsa 'F' para pescar. Si atrapaste un pez, puedes pulsar 'R' para
+        com\xE9rtelo y recuperar salud."
+  - actorName: Water
+    profile: {fileID: 8509550459451208454, guid: da39f8098ed9a0946b9a632f5398564f, type: 3}
+    sentence:
+      portuguese: "Pressione \"R\" perto do lago para encher o n\xEDvel de \xE1gua.
+        Voc\xEA pode us\xE1-lo para regar ao cultivar cenouras."
+      english: Press 'R' near the lake to fill up your water level. You can use it
+        to water when carrot farming.
+      spanish: Pulsa "R" cerca del lago para llenar el nivel de agua. Puedes usarlo
+        para regar al cultivar zanahorias.
+  - actorName: Building
+    profile: {fileID: 6674386295937086461, guid: 1eaa23d7b5a5f244aa6d28f1b761870b, type: 3}
+    sentence:
+      portuguese: "Para cortar uma \xE1rvore, selecione a ferramenta machado n\xFAmero
+        1 e clique com o bot\xE3o esquerdo na frente de uma \xE1rvore. Voc\xEA precisar\xE1
+        de alguns troncos para construir uma casa!"
+      english: To chop a tree, select the axe tool, number 1. and Left click in front
+        of a tree. You will need some Logs to build a house!
+      spanish: "Para talar un \xE1rbol, selecciona la herramienta hacha n\xFAmero
+        1 y haz clic izquierdo frente a un \xE1rbol. \xA1Necesitar\xE1s troncos para
+        construir una casa!"
+  - actorName: Carrots
+    profile: {fileID: 468043633, guid: 963928f4237ea4f46b130e950f3b648f, type: 3}
+    sentence:
+      portuguese: "Para cultivar cenouras, voc\xEA precisar\xE1 da p\xE1 (2), da
+        semente (4) e da \xE1gua (3), nesta ordem. Voc\xEA pode pressionar \"R\"
+        para comer as cenouras e recuperar sua sa\xFAde."
+      english: To farm carrots, you will need your shovel tool '2', seed tool '4'
+        and water tool '3' in this order. You can press 'R' to eat the carrots to
+        get your health back.
+      spanish: "Para cultivar zanahorias, necesitar\xE1s la pala 2, la sembradora
+        4 y la regadera 3, en este orden. Puedes presionar R para comer las zanahorias
+        y recuperar salud."
+  - actorName: Items
+    profile: {fileID: -4623001757002234909, guid: 47e5e16445a75dc4799e1d51098e33fe, type: 3}
+    sentence:
+      portuguese: "Para pegar os itens do ch\xE3o, aproxime-se e pressione a barra
+        de espa\xE7o."
+      english: To pick the items up from the floor, get near it and press space bar.
+      spanish: "Para recoger los objetos del suelo, ac\xE9rcate a \xE9l y presiona
+        la barra espaciadora."
+  - actorName: Health
+    profile: {fileID: 7212326624354187980, guid: c58c488cd74c2284a9b3a812eb750c68, type: 3}
+    sentence:
+      portuguese: "Para recuperar a sa\xFAde, voc\xEA pode pescar ou cultivar cenouras,
+        se as tiver. Pressione \"R\" para restaurar 1 ponto de sa\xFAde. Observe
+        que voc\xEA s\xF3 pode comer uma vez a cada 3 segundos."
+      english: For health recovery, you can fish or farm carrots if you have them.
+        Press 'R' to restore 1 health point. Note that you can only eat once every
+        3 seconds.
+      spanish: Para recuperar salud, puedes pescar o cultivar zanahorias si las tienes.
+        Pulsa R para recuperar 1 punto de salud. Ten en cuenta que solo puedes comerlas
+        una vez cada 3 segundos.
+  - actorName: Sam
+    profile: {fileID: 6997741227164693895, guid: 11e9b03c52b71684184bcff141196ac0, type: 3}
+    sentence:
+      portuguese: Boa sorte, aventureiro! Que sua jornada seja segura.
+      english: Good luck Adventurer! May your journey be safe.
+      spanish: "\xA1Buena suerte, aventurero! Que tengas un buen trayecto."
